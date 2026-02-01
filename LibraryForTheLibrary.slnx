@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibraryForTheLibrary.Console/LibraryForTheLibrary.Console.csproj" />
+  <Project Path="LibraryForTheLibrary.Extension/LibraryForTheLibrary.Extension.csproj" />
+  <Project Path="LibraryForTheLibrary.Tests/LibraryForTheLibrary.Tests.csproj" />
+</Solution>
